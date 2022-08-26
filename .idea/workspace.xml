@@ -1,11 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4469934a-2584-4370-be7e-7fac267e94bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aliyunOssUtils/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aliyunOssUtils/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aliyunOssUtils/src/main/java/com/al_tair/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aliyunOssUtils/src/main/java/com/al_tair/demo/constant/OssConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aliyunOssUtils/src/main/java/com/al_tair/demo/controller/OssController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aliyunOssUtils/src/main/java/com/al_tair/demo/utils/AliyunOSSUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aliyunOssUtils/src/main/java/com/al_tair/demo/utils/JsonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aliyunOssUtils/src/main/java/com/al_tair/demo/utils/swagger/OpenApiConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aliyunOssUtils/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="aliyun-oss-utils" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Java\Java_software\apache-maven-3.8.1-bin\apache-maven-3.8.1\maven-repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Java/Java_software/apache-maven-3.8.1-bin/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="E:\Java\Java_software\apache-maven-3.8.1-bin\apache-maven-3.8.1\conf\settingsOld.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CYDXQEmkX7Img4LuxfjsDPcYkU" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5873563" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java_training\Java-utils-demo\Java-utils-demo\aliyunOssUtils\src\main\resources\static" />
+      <recent name="E:\Java_training\Java-utils-demo\Java-utils-demo\aliyunOssUtils\src\main\resources\static\css\modules\laydate\default" />
+      <recent name="E:\Java_training\Java-utils-demo\Java-utils-demo\aliyunOssUtils\src\main\resources\static\css" />
+      <recent name="E:\Java_training\Java-utils-demo\Java-utils-demo\aliyunOssUtils\src\main\resources\static\modules" />
+      <recent name="E:\Java_training\Java-utils-demo\Java-utils-demo\aliyunOssUtils\src\main\resources\static\modules\layer\default" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.al_tair.demo.utils.swagger" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java_training\Java-utils-demo\Java-utils-demo\aliyunOssUtils\src\main\resources\static\modules\laydate\default" />
+      <recent name="E:\Java_training\Java-utils-demo\Java-utils-demo\aliyunOssUtils\src\main\resources\static\modules" />
+      <recent name="E:\Java_training\Java-utils-demo\Java-utils-demo\aliyunOssUtils\src\main\resources\static" />
+      <recent name="E:\Java_training\Java-utils-demo\Java-utils-demo\aliyunOssUtils\src\main\resources\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="aliyunOssUtils" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.al_tair.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4469934a-2584-4370-be7e-7fac267e94bf" name="Default Changelist" comment="" />
+      <created>1658970663031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658970663031</updated>
+      <workItem from="1658970664773" duration="3820000" />
+      <workItem from="1658994471228" duration="13895000" />
+      <workItem from="1659159911391" duration="1098000" />
+      <workItem from="1659691860535" duration="2611000" />
+      <workItem from="1659836488776" duration="1206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1659692809494">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1659692809494" />
+    <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1659691878170">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1659691878170" />
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom" timestamp="1659694474857">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1659694474857" />
+    <state width="1877" height="355" key="GridCell.Tab.0.center" timestamp="1659694474857">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1659694474857" />
+    <state width="1877" height="355" key="GridCell.Tab.0.left" timestamp="1659694474857">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1659694474857" />
+    <state width="1877" height="355" key="GridCell.Tab.0.right" timestamp="1659694474857">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1659694474857" />
+    <state width="1877" height="355" key="GridCell.Tab.1.bottom" timestamp="1659694474857">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1659694474857" />
+    <state width="1877" height="355" key="GridCell.Tab.1.center" timestamp="1659694474857">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1659694474857" />
+    <state width="1877" height="355" key="GridCell.Tab.1.left" timestamp="1659694474857">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1659694474857" />
+    <state width="1877" height="355" key="GridCell.Tab.1.right" timestamp="1659694474857">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1659694474857" />
+    <state width="1877" height="133" key="GridCell.Tab.2.bottom" timestamp="1659009342065">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="133" key="GridCell.Tab.2.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1659009342065" />
+    <state width="1877" height="133" key="GridCell.Tab.2.center" timestamp="1659009342064">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="133" key="GridCell.Tab.2.center/0.30.1920.1050@0.30.1920.1050" timestamp="1659009342064" />
+    <state width="1877" height="133" key="GridCell.Tab.2.left" timestamp="1659009342064">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="133" key="GridCell.Tab.2.left/0.30.1920.1050@0.30.1920.1050" timestamp="1659009342064" />
+    <state width="1877" height="133" key="GridCell.Tab.2.right" timestamp="1659009342064">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="133" key="GridCell.Tab.2.right/0.30.1920.1050@0.30.1920.1050" timestamp="1659009342064" />
+    <state x="490" y="210" key="Maven.ArtifactSearchDialog" timestamp="1659693268719">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="490" y="210" key="Maven.ArtifactSearchDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1659693268719" />
+    <state x="461" y="180" width="1040" height="870" key="SettingsEditor" timestamp="1659691879158">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="461" y="180" width="1040" height="870" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1659691879158" />
+    <state x="552" y="288" key="Vcs.Push.Dialog.v2" timestamp="1659003232982">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="288" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1659003232982" />
+    <state width="968" height="533" key="XDebugger.FullValuePopup" timestamp="1658996911538">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="968" height="533" key="XDebugger.FullValuePopup/0.30.1920.1050@0.30.1920.1050" timestamp="1658996911538" />
+    <state x="662" y="289" width="596" height="532" key="find.popup" timestamp="1658996719502">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="662" y="289" width="596" height="532" key="find.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1658996719502" />
+    <state x="721" y="454" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1658971181166">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="721" y="454" key="git4idea.remote.GitConfigureRemotesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1658971181166" />
+    <state x="334" y="165" key="new project wizard" timestamp="1658971405803">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="334" y="165" key="new project wizard/0.30.1920.1050@0.30.1920.1050" timestamp="1658971405803" />
   </component>
 </project>

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-utils-demo.iml" filepath="$PROJECT_DIR$/.idea/Java-utils-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aliyunOssUtils/aliyunOssUtils.iml" filepath="$PROJECT_DIR$/aliyunOssUtils/aliyunOssUtils.iml" />
     </modules>
   </component>
 </project>
